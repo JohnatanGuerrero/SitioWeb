@@ -1,0 +1,10 @@
+body{
+    margin: 1em;
+    padding: 1em;
+    background-color: aliceblue;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: indigo;
+}
